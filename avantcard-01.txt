@@ -1,0 +1,1 @@
+Block if :card_bin: ='518676' or :card_bin: ='540655' or :card_bin: ='540772'
